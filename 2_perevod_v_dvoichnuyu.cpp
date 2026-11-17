@@ -1,3 +1,5 @@
+//Перевести число из десятичной системы исчисления в двоичную.
+
 #include <iostream>
 using namespace std;
 
