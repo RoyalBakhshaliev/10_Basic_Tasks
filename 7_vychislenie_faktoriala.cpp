@@ -1,3 +1,5 @@
+//Вычислить факториал числа, введенного с клавиатуры
+
 #include <iostream>
 using namespace std;
 
