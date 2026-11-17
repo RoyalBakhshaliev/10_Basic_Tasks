@@ -1,3 +1,5 @@
+//Дана матрица. Найти минимальный элемент матрицы
+
 #include <iostream>
 using namespace std;
 
