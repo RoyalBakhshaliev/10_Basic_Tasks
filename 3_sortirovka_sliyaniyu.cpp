@@ -1,3 +1,5 @@
+//Сортировка массива методом Фон Неймана (Слиянием).
+
 #include <iostream>
 using namespace std;
 
